@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+
+List items = [
+  {
+    "id": 1,
+    "sub_name": "1",
+    "name": "SESSION",
+    "code": "SSH081686",
+    "p_price": 250.00,
+    "p_promotion_price": 199.00,
+    "color_code": Color(0xFF673AB7),
+  },
+  {
+    "id": 2,
+    "sub_name": "1",
+    "name": "MONTH NUTRITION PACK",
+    "code": "SSH023912",
+    "p_price": 2250.00,
+    "p_promotion_price": 1999.00,
+    "color_code": Color(0xFFFFC107),
+  },
+  {
+    "id": 3,
+    "sub_name": "3",
+    "name": "MONTH NUTRITION PACK",
+    "code": "SSH023912",
+    "p_price": 5999.00,
+    "p_promotion_price": 4999.00,
+    "color_code": Color(0xFF00BCD4),
+  },
+  {
+    "id": 4,
+    "sub_name": "6",
+    "name": "MONTH NUTRITION PACK",
+    "code": "SSH023912",
+    "p_price": 8999.00,
+    "p_promotion_price": 7999.00,
+    "color_code": Color(0xFF673AB7),
+  },
+  {
+    "id": 5,
+    "sub_name": "9",
+    "name": "MONTH NUTRITION PACK",
+    "code": "SSH023912",
+    "p_price": 10999.00,
+    "p_promotion_price": 8999.00,
+    "color_code": Color(0xFFFFC107),
+  },
+  {
+    "id": 6,
+    "sub_name": "12",
+    "name": "MONTH NUTRITION PACK",
+    "code": "SSH023912",
+    "p_price": 11999.00,
+    "p_promotion_price": 9999.00,
+    "color_code": Color(0xFF00BCD4),
+  },
+];
